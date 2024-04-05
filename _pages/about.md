@@ -8,12 +8,15 @@ redirect_from:
 ---
 
 
-Hi! My name is Yunzhuo Hao, a third-year undergraduate in Software Engineering at the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). I’m a research intern at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn), [Renmin University of China](https://www.ruc.edu.cn), where I’m fortunate to work with Prof. [Yankai Lin](https://linyankai.github.io). My research interests mainly lie in Machine Learning (ML) and Natural Language Processing (NLP), specifically including the trustworthiness and security issues in large language models. I am also interested in other issues related to LLMs, such as LLM alignment, etc.
+Hi! My name is Yunzhuo Hao, a third-year undergraduate in [School of Information and Software Engineering](https://sise.uestc.edu.cn/) at the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). 
+I’m a research intern at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn), [Renmin University of China](https://www.ruc.edu.cn), where I’m fortunate to work with Prof. [Yankai Lin](https://linyankai.github.io). 
+My research interests mainly lie in Machine Learning (ML) and Natural Language Processing (NLP), specifically including the trustworthiness and security issues in large language models. 
+I am also interested in other issues related to LLMs, such as LLM alignment, etc.
 
 
 Education
 ======
-* Sept. 2021 - July 2025 (expected), Bachelor in Software Engineering, University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)).
+* Sept. 2021 - July 2025 (expected), Bachelor in School of Information and Software Engineering ([SISE](https://sise.uestc.edu.cn/)), University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)).
 
 Internship
 ======
@@ -21,6 +24,13 @@ Internship
 
 Preprints 
 ======
+
+(# denotes Equal Contribution)
+
+* **Exploring Backdoor Attacks on Chat Models**   
+**Yunzhuo Hao**#, Wenkai Yang#, Yankai Lin  
+[[arxiv](https://arxiv.org/abs/2404.02406), [code](https://github.com/hychaochao/Chat-Models-Backdoor-Attacking)]
+
 
 Honors and Awards
 ======
