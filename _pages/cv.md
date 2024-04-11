@@ -22,8 +22,9 @@ Work experience
   
 Skills & Expertise
 ======
-* Highly self-motivated researcher.
-* Programming Skills: Python, Pytorch, C.
+* Language: CET-4 score: 604; CET-6 score: 531
+* Technical Skills: C/C++, Python (PyTorch), LaTeX, Linux, Java.
+* 
 
 Selected Awards
 ======
