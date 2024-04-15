@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! My name is Yunzhuo Hao (郝韵焯), a third-year undergraduate in [School of Information and Software Engineering](https://sise.uestc.edu.cn/) at the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). 
 I’m a research intern at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn), [Renmin University of China](https://www.ruc.edu.cn), where I’m fortunate to work with Prof. [Yankai Lin](https://linyankai.github.io). 
-My research interests mainly lie in Machine Learning (ML) and Natural Language Processing (NLP), specifically including the trustworthiness and security issues in large language models. 
+My research interests mainly lie in Machine Learning (ML) and Natural Language Processing (NLP), specifically including the trustworthiness and security issues in large language models and also federated machine learning security problems. 
 I am also interested in other issues related to LLMs, such as LLM alignment, etc.
 
 
